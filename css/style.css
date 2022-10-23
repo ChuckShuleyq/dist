@@ -328,7 +328,8 @@ body.popup-show::after {
 }
 
 .popup__input {
-  margin: 0px 0px 0.8125rem 0px;
+  
+  margin: 0px 0px 0.8125rem 10px;
   padding-left: 7px;
   height: 38px;
   border: 1px solid rgba(23, 113, 185, 0.2);
